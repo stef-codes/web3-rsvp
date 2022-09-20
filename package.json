@@ -1,0 +1,22 @@
+{
+  "name": "web3-rsvp",
+  "version": "1.0.0",
+  "description": "RSVP App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stef-codes/web3-rsvp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stef-codes/web3-rsvp/issues"
+  },
+  "homepage": "https://github.com/stef-codes/web3-rsvp#readme",
+  "devDependencies": {
+    "hardhat": "^2.11.2"
+  }
+}
